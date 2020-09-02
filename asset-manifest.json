@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/rungnapa/static/css/main.523f09c5.chunk.css",
+    "main.js": "/rungnapa/static/js/main.cc030c05.chunk.js",
+    "main.js.map": "/rungnapa/static/js/main.cc030c05.chunk.js.map",
+    "runtime-main.js": "/rungnapa/static/js/runtime-main.6621ca5d.js",
+    "runtime-main.js.map": "/rungnapa/static/js/runtime-main.6621ca5d.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/rungnapa/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5cd1425c.chunk.js": "/rungnapa/static/js/2.5cd1425c.chunk.js",
+    "static/js/2.5cd1425c.chunk.js.map": "/rungnapa/static/js/2.5cd1425c.chunk.js.map",
+    "index.html": "/rungnapa/index.html",
+    "precache-manifest.546fac0b56d13accd42277cf5fbab861.js": "/rungnapa/precache-manifest.546fac0b56d13accd42277cf5fbab861.js",
+    "service-worker.js": "/rungnapa/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/rungnapa/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.523f09c5.chunk.css.map": "/rungnapa/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.5cd1425c.chunk.js.LICENSE.txt": "/rungnapa/static/js/2.5cd1425c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6621ca5d.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.5cd1425c.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.cc030c05.chunk.js"
+  ]
+}
